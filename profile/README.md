@@ -5,4 +5,5 @@
 
 We are a community of volunteers developing Rikaitan and related projects, dedicated to helping language learners succeed.
 
-Join us on [our community](https://tatsumoto.neocities.org/blog/join-our-community.html) for more discussion.
+* Join us on [our community](https://tatsumoto.neocities.org/blog/join-our-community.html) for more discussion.
+* We need your contributions! See [Ajatt-Tools](https://github.com/Ajatt-Tools) for more repositories.
